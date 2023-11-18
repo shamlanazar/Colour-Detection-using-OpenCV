@@ -5,4 +5,4 @@ This Python project focuses on colour detection using OpenCV, providing a practi
 
 ## Modules Used
 - **OpenCV:** Utilized for image processing and colour recognition.
-- **Data Calculation:** Implemented distance calculation to determine the closest colour match.
+- **Pandas:** Employed for data manipulation and storage in the project
